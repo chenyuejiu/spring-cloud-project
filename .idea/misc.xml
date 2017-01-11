@@ -9,6 +9,7 @@
         <option value="$PROJECT_DIR$/cloud-config-server/pom.xml" />
         <option value="$PROJECT_DIR$/cloud-eureka-server/pom.xml" />
         <option value="$PROJECT_DIR$/cloud-simple-service/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-simple-ui/pom.xml" />
       </list>
     </option>
   </component>
